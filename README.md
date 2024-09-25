@@ -1,5 +1,8 @@
 # CAR-FUEL-CONSUMPTION-PREDICTION-MODEL
 
+![image](https://github.com/user-attachments/assets/a99f9413-a9e7-4e63-a93b-e3612ff66464)
+
+
 The quality of car fuel consumption prediction is crucial for various purposes like reducing emissions, improving fuel efficiency, and optimizing vehicle performance.
 
 ## Data: Car fuel consumption and emissions data (2000-2013)
